@@ -1,0 +1,38 @@
+cd 
+streamlit run AI_Dungeon_Story_Generator/app/main.py
+
+Genre: hfantasy
+Prompt: The warrior stepped into the ancient ruins, sword in hand.
+
+--- Story 1 ---
+The warrior stepped into the ancient ruins, sword in hand. A sword with a long edge, not even the blades of a dragon, yet it was just like that.
+
+The warrior had only the strength of a human, but it had also the same power as the man.
+
+"If I die I will die for you. The last of the world will live forever."
+
+The warrior was the strongest of the ancient warriors. He was the strongest man in the world. The warrior raised his blade and raised his sword to the sky.
+
+The sword had the same form as a sword raised in the Middle Ages. It was a sword of light and the blade was sharp.
+
+"As long as there's the
+
+--- Story 2 ---
+The warrior stepped into the ancient ruins, sword in hand. As he approached, he saw that the sun had been cut short by the dragon's power, and he had no choice but to return to his home city. And yet the sun still shone.
+
+"So we are back home," the sword-wielding warrior replied.
+
+"Well, that's what I thought," Yoren replied. "The other warlocks say we are now in the new kingdom of the Nine Heavens."
+
+"You don't need to call it the new kingdom of the Nine Heavens," Yoren agreed. "The three great rulers of that region have lost the battle. The three gods have gone into exile, and there are few
+
+--- Story 3 ---
+The warrior stepped into the ancient ruins, sword in hand.
+
+"I've been watching you all this time, but you're so much more than that, you need to stop. You are my slave. I need to be there for you, in your shadow." He turned back, a tear running down his cheek. His sword was far too large. "I'm the one that stole your body, and I'm your sister."
+
+"You're right. I've been watching you for many, many years and it's time I let you die. I can't let you go. I can't let you die alone. I need to be there for you, for you, for me."
+
+He turned to look
+
+Saved on: 2025-05-10 22:58:36.249153
